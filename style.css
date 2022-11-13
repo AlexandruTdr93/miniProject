@@ -1,0 +1,17 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: darkred;
+}
+
+.container {
+    text-align: center;
+    font-family: "Gill Sans";
+    color: wheat;
+    font-weight: bold;
+    font-size: 70px;
+}
+.flip-clock{
+    display: inline-block;
+    width: auto;
+}
